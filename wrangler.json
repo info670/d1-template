@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "d1-template",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "88098d70-0100-483d-ac42-70d701d4dac1",
+      "database_name": "reparatie-system"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
